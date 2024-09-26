@@ -1,8 +1,8 @@
 - Hi, I’m Barry Nie
-- I am from Hong Kong Baptist University
-- A Year 2 CS student
-- I’m interested in coding,leetcode,machine learning.....
-- I’m currently learning java
+- I am a Year 2 CS student from Hong Kong Baptist University
+- I speak c
+- I’m interested in algorithms, leetcode, machine learning.....
+- I’m currently learning java and python
 - How to reach me: 23257024@life.hkbu.edu.hk
 
 
